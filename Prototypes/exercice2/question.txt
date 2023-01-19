@@ -1,0 +1,8 @@
+exercice1 :
+saisir une valeur et dire s'il existe ou pas sur la base de donnee
+
+exercice2 :
+autofiltrer le contenue du base de donnee comparer avec la valeur saisie
+
+exercice3 :
+ajouter et suprimer d'une session 
