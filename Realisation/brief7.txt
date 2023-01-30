@@ -1,4 +1,0 @@
-consomer une API avec Laravel et usiliser react pour la partie front-end
-
-sujet choisie: 
-	API countries and cities arround the world
