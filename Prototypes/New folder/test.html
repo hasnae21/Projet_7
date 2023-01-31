@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>hello hasnae</h1>
+</body>
+</html>
+
+<script>
+
+
+
+fetch('http://api.countrylayer.com/v2/all?access_key=c48f56c525e18a8b11a766c2864b997b')
+	.then(response => response.json())
+	.then(response => console.log(response))
+	.catch(err => console.error(err));
+
+</script>
